@@ -1,147 +1,147 @@
-Year,Disaster Subsubtype,ISO,Location,Origin,Dis Mag Value,Latitude,Longitude,Local Time,date,End date,Total Deaths,No Injured,No Affected,No Homeless,Total Affected,Insured Damages US$,Insured Damages US$(2021),Total Damages US$,Total Damages US$(2021),CPI
-1906,,COL,Tumako,,9.0,1.51 N,78.46 W ,,1906-01-31,1906-01-31,400.0,,,,,,,,,3.0770111615701
-1950,,COL,"Santander, Amboledas",,,7.8,-72.5,21:35,1950-07-08,1950-07-08,211.0,,,40000.0,40000.0,,,5000.0,60683.0,8.2395521104268
-1962,,COL,"Mistrato, Manizales",,7.0,5.173,-76.352,13:53,1962-07-30,1962-07-30,47.0,300.0,,,300.0,,,,,10.3364103594111
-1967,,COL,"Neiva (Huila deparment); Rivera, San Antonio",,7.0,2.849,-74.798,10:24,1967-02-09,1967-02-09,61.0,200.0,40000.0,,40200.0,,,600.0,5264.0,11.3985269797253
-1970,,COL,Pereira (Bahia Solano),,7.0,6.375,-77.438,22:38,1970-09-25,1970-09-25,,6.0,3000.0,,3006.0,,,400.0,3015.0,13.2664799609959
-1901,,JPN,Sanriku,Earthquake,8.0,40.5,142.5,03:33,1901-08-10,1901-08-10,18.0,,,24.0,24.0,,,,,2.8490844088613
-1905,,JPN,Fukushima,Earthquake,7.0,37.4,142.6,01:21,1907-07-07,1907-07-07,41.0,,,,,,,,,3.0770111615701
-1906,,USA,San Francisco (California),,8.0,37.67,-122.48,05:12,1906-04-18,1906-04-18,700.0,,,84564.0,84564.0,180000.0,5849833.0,524000.0,17029512.0,3.0770111615701
-1914,,JPN,Akita Senboku,,7.0,39.2,139.8,05:00,1914-03-16,1914-03-16,94.0,,,1920.0,1920.0,,,,,3.4302976282689
-1915,,USA,El Centro (California),,6.0,32.47,-115.33,20:56,1915-06-22,1915-06-22,6.0,,,,,,,1000.0,28864.0,3.4644866411753
-1923,,JPN,"Kanto plaine (Yokohama,Tokyo)",,8.0,35.413,139.298,11:58,1923-09-01,1923-09-01,143000.0,103733.0,100000.0,,203733.0,,,600000.0,10282909.0,5.8349248693479
-1925,,USA,Santa Barbara (California),,6.0,34.25 N,119.41 W,,1925-06-29,1925-06-29,13.0,,,,,,,8000.0,133203.0,6.0058699338795
-1927,,JPN,"Tango, Honshu",,7.0,35.632,135.013,18:27,1927-03-07,1927-03-07,3022.0,3295.0,29463.0,46782.0,79540.0,,,40000.0,672395.0,5.9488882457024
-1930,,JPN,Idu (Honshu),,7.0,35.05,139.129,04:02,1930-11-26,1930-11-26,259.0,1825.0,,24297.0,26122.0,,,,,5.7209614929934
-1933,,USA,Long Beach (California),,6.0,33.62,117.97,17:54,1933-03-10,1933-03-10,116.0,,,,,,,38500.0,868452.0,4.4331753401881
-1933,,JPN,Sanriku,Earthquake,8.0,39.224,144.622,02:1,1933-03-03,1933-03-03,3000.0,,,,,,,,,4.4331753401881
-1940,,USA,Imperial Valley (California),,7.0,32.733,-115.5,20:36,1940-05-18,1940-05-18,9.0,,,,,,,33000.0,687807.0,4.7978581445223
-1943,,JPN,Tottori (Honshu Isl.),,7.0,35.448,133.993,17:37,1943-09-10,1943-09-10,1400.0,,,23217.0,23217.0,,,,,5.9260955704314
-1944,,JPN,"Tonankai, Hondo",,8.0,33.682,36.204,13:35,1944-12-07,1944-12-07,1223.0,2135.0,,78438.0,80573.0,,,,,6.0286626091504
-1945,,JPN,"Mikawa (Near Nagoya, Honshu Isl.)",,7.0,34.612,137.064,03:38,1945-01-13,1945-01-13,2306.0,896.0,,21663.0,22559.0,,,,,6.1654186607757
-1946,,JPN,"Nankaido, Tonankai (Honshu Isl.)",,8.0,33.116,135.895,04:19,1946-12-21,1946-12-21,2000.0,,,,,,,,,6.6782538543708
-1946,,USA,"Alaska, Hawi and California",Earthquake,9.0,53.492,-162.832,03:29,1946-04-01,1946-04-01,165.0,,,,,,,25000.0,374349.0,6.6782538543708
-1948,,JPN,Fukui,,7.0,36.5,136,16:13,1948-06-28,1948-06-28,5131.0,11000.0,,315000.0,326000.0,,,1000000.0,12153392.0,8.2281557727913
-1949,,USA,"Puget Sound, Olympia (Washington state)",,7.0,47.167,-122.617,12:55,1949-04-13,1949-04-13,8.0,,,,,,,25000.0,306809.0,8.1483814093431
-1952,,JPN,Hokkaido Isl.,,8.0,42.084,143.899,10:22,1952-03-04,1952-03-04,33.0,200.0,,,200.0,,,,,9.0942774330851
-1952,,USA,Kern county (California),,8.0,34.958,-118.998,04:52,1952-07-21,1952-07-21,12.0,200.0,,,200.0,,,60000.0,659756.0,9.0942774330851
-1952,,USA,"Bakersfield, Kern County (California)",,6.0,35.333,-118.917,15:41,1952-08-22,1952-08-22,2.0,,,270.0,270.0,,,10000.0,109959.0,9.0942774330851
-1952,,USA,Hawai,Earthquake,,,,,1952-11-04,1952-11-04,,,,,,,,900.0,9896.0,9.0942774330851
-1959,,USA,Hebgen Lake (Montana),,7.0,44.712,-111.215,23:37,1959-08-17,1959-08-17,28.0,,,,,,,11000.0,110436.0,9.9605423643158
-1960,,JPN,"Onagawa, Honshu Island",,,,,,1960-05-22,1960-05-22,138.0,,,,,,,140000.0,1385348.0,10.1057629853038
-1960,,USA,Hawaii,,10.0,,,,1960-05-23,1960-05-23,61.0,,,,,,,575000.0,5689823.0,10.1057629853038
-1964,,JPN,"Niigata, Hodo Isl.",,7.0,38.67,139.195,13:01,1964-06-16,1964-06-16,25.0,376.0,35000.0,,35376.0,5000.0,47177.0,800000.0,7548326.0,10.5983760170141
-1964,,USA,"Anchorage, Chitina, Glennallen, Homer, Hope, Kasilof, Kenai, Kodiak, Moose Pass, Portage, Seldovia, Seward, Sterling, Valdez, Wasilla, Whittier (Alaska)",,9.0,60.908,-147.339,18:36,1964-03-27,1964-03-27,131.0,,,,,,,311000.0,2934412.0,10.5983760170141
-1965,,USA,Seattle (Washington),,7.0,47.4,-122.3,07:28,1965-04-29,1965-04-29,7.0,,,,,,,28000.0,260069.0,10.7663787252722
-1968,,JPN,Aomori Prefecture - Hokkaido,,7.0,40.5,140.43,,1968-05-17,1968-05-17,47.0,281.0,2500.0,,2781.0,,,131000.0,1102188.0,11.8854465143325
-1971,,USA,San Fernando (Los Angeles),,7.0,34.416,-118.37,06:00,1971-02-09,1971-02-09,65.0,2000.0,,,2000.0,35000.0,252964.0,553000.0,3996825.0,13.8359835495998
-1974,,JPN,"Izu-Hanto, Nakagi",,7.0,34.522,138.74,08:33,1974-05-09,1974-05-09,30.0,73.0,,,73.0,,,,,16.8486291063234
-1978,,JPN,"Oshima, Yokohama, Tokkaido",,7.0,34.809,139.259,12:24,1978-01-14,1978-01-14,25.0,129.0,1632.0,255.0,2016.0,,,,,22.2901950366959
-1978,,JPN,Sendai (Near Esat coast of Honshu),,8.0,38.19,142.028,17:14,1978-06-12,1978-06-12,28.0,500.0,2000.0,,2500.0,2000.0,8973.0,865000.0,3880630.0,22.2901950366959
-1979,,COL,"Pasto, Buenaventura, Narino, Cauca provinces, Tumaco Isl.; Gorgona Isl.",,8.0,1.598,-79.358,02:59,1979-12-12,1979-12-12,579.0,1042.0,10000.0,,11042.0,,,8000.0,32260.0,24.7988405675032
-1979,,COL,Manizales-Armenia area,,7.0,4.805,-76.217,18:40,1979-11-23,1979-11-23,60.0,600.0,,,600.0,,,20000.0,80649.0,24.7988405675032
-1981,,COL,Colombia/Venezuela border,,5.0,8.117,-72.527,23:31,1981-10-18,1981-10-18,10.0,,,,,,,5000.0,16093.0,31.0690249461021
-1983,,COL,Popayan city (Cauca department),,5.0,2.461,-76.686,08:12,1983-03-31,1983-03-31,250.0,1200.0,35000.0,,36200.0,,,410900.0,1207348.0,34.033263629163
-1980,,JPN,"Tokyo, Kanto region",,6.0,35.45,139.964,02:54,1980-09-25,1980-09-25,2.0,73.0,,,73.0,,,1000.0,3551.0,28.1588866338069
-1982,,JPN,"Hokkaido, Urakawa, Hiroo",,7.0,42.158,142.361,11:32,1982-03-21,1982-03-21,110.0,100.0,1000.0,,1100.0,,,1000.0,3033.0,32.9739978068293
-1983,,JPN,Near South coast Honshu,,5.0,35.5,139.07,12:47,1983-08-08,1983-08-08,1.0,28.0,,,28.0,,,,,34.033263629163
-1983,,JPN,"Nihon- Kai-Chubu, Western Honshu, Akita, Aomori, Hokkaido",,8.0,40.462,139.102,11:59,1983-05-26,1983-05-26,102.0,77.0,,,77.0,,,416000.0,1222334.0,34.033263629163
-1984,,JPN,"Honshu, Nagano prefecture (Honshu)",,7.0,36.39 N,138.10 E,,1984-09-14,1984-09-14,20.0,,,,,,,43000.0,121137.0,35.4968811298231
-1984,,JPN,Kyushu (Shikoku Island),,7.0,32.50 N,130.42 E,,1984-08-06,1984-08-06,,9.0,,,9.0,,,,,35.4968811298231
-1987,,JPN,Chiba prefecture (Near Tokyo),,6.0,35.38,140.214,11:08,1987-12-17,1987-12-17,2.0,53.0,22599.0,,22652.0,,,,,38.8256008137732
-1983,,USA,Kapapala area (Hawai),,6.0,19.43,-155.454,06:13,1983-11-16,1983-11-16,,6.0,,,6.0,,,6250.0,18364.0,34.033263629163
-1983,,USA,Coalinga area (Central California),,5.0,36.219,-120.317,16:42,1983-05-02,1983-05-02,,45.0,1500.0,,1545.0,,,31000.0,91087.0,34.033263629163
-1983,,USA,"Borah Peak, Challis, Mackay (Eastern Idaho)",,7.0,44.058,-113.857,08:06,1983-10-28,1983-10-28,2.0,2.0,,,2.0,,,15000.0,44075.0,34.033263629163
-1986,,USA,Newport Beach-San Diego area,,6.0,32.978 N,117.858 W,,1986-07-13,1986-07-13,,29.0,150.0,,179.0,,,720.0,1922.0,37.4531116621934
-1987,,USA,Los Angeles-Whittier (California),,6.0,34.061,-118.079,07:42,1987-10-01,1987-10-01,8.0,,2200.0,,2200.0,30000.0,77269.0,213000.0,548607.0,38.8256008137732
-1987,,USA,Imperial county (California),,7.0,33.013,115.838,05:15,1987-11-24,1987-11-24,,94.0,,,94.0,,,4000.0,10302.0,38.8256008137732
-1991,,COL,"Buenaventura, Cali (Choco Department)",,7.0,3.554 N,77.442 W,16:28,1991-11-19,1991-11-19,2.0,2.0,570.0,295.0,867.0,,,,,46.5366206057622
-1992,,COL,"(1) Murindo, Vigia del Fuerte, Gedeza, Bellaluz, Bebaremeno, Bellavista (Antioquia and Choco Province), (2) Murindo Apartado Medellin area, (3) San Pedro de Uraba",,7.0,7.123 N,7 W.887 ,3:32,1992-10-17,1992-10-17,11.0,135.0,,1500.0,1635.0,,,,,47.9461296367986
-1993,,COL,"Arauca, Puerto Rondon, Puerto Colombia",,6.0,6.47,-71.210,,1993-07-22,1993-07-22,2.0,60.0,3011.0,,3071.0,,,,,49.3613321649381
-1994,,COL,"Toez, Irlanda, Belalcazar, Mosoco, Monte Cruz, La Cruz, San Jose Cabuya (Cauca Department and Huila Department)",,6.0,30.0 N ,76.2 W,15:47,1994-06-06,1994-06-06,271.0,158.0,12461.0,24797.0,37416.0,,,2400.0,4739.0,50.6484026622566
-1992,,JPN,Kanto area (Tokyo),,6.0,35.106 N,139.644 E,,1992-02-02,1992-02-02,,32.0,,,32.0,,,,,47.9461296367986
-1993,,JPN,Okushiri Island (Hokkaido),,8.0,42.851 N,139.197 E,,1993-07-12,1993-07-12,239.0,233.0,5502.0,1620.0,7355.0,16000.0,32414.0,1000000.0,2025877.0,49.3613321649381
-1993,,JPN,Near Kushiro (Hokkaido),,8.0,43.300 N,143.691 E,,1993-01-15,1993-01-15,2.0,722.0,9800.0,,10522.0,,,358000.0,725264.0,49.3613321649381
-1989,,USA,"San Francisco, Oakland, San Mateo, Santa Clara, San Jose, Santa Cruz, Berkeley, Holister, Silicon Valley (California)",,7.0,37.036,-121.88,17:04,1989-10-18,1989-10-18,62.0,3757.0,,,3757.0,,,5600000.0,13220224.0,42.3593430854381
-1989,,USA,Puna district (Hawaii),,6.0,19.362,-155.083,17:27,1989-06-26,1989-06-26,5.0,,300.0,15.0,315.0,,,,,42.3593430854381
-1990,,USA,Southern California,,6.0,34.140 N,117.70 W,,1990-02-28,1990-02-28,,30.0,,,30.0,,,12700.0,28446.0,44.6458774383636
-1990,,USA,Alamo (central California),,4.0,37.885 N,121.983 W,,1990-03-30,1990-03-30,,,120.0,,120.0,,,,,44.6458774383636
-1991,,USA,Pasadena area (California),,6.0,34.10 N,118.09 W,,1991-06-28,1991-06-28,2.0,100.0,,,100.0,,,33500.0,71986.0,46.5366206057622
-1992,,USA,"Ferndale, Fortuna and Petrolia areas (North California)",,7.0,40.415 N,124.603 W,,1992-04-25,1992-04-25,,94.0,,,94.0,5000.0,10428.0,75000.0,156426.0,47.9461296367986
-1992,,USA,Landers California,,7.0,34.00 N ,118.15 W,,1992-06-28,1992-06-28,1.0,300.0,,,300.0,40000.0,83427.0,100000.0,208567.0,47.9461296367986
-1992,,USA,South California,,6.0,33.961,-116.32,21:50,1992-04-22,1992-04-22,,32.0,,,32.0,10000.0,20857.0,100000.0,208567.0,47.9461296367986
-1993,,USA,Klamath Falls (Oregon),,6.0,42.314,-122.01,20:28,1993-09-21,1993-09-21,2.0,,3000.0,,3000.0,,,7500.0,15194.0,49.3613321649381
-1994,,USA,"Los Angeles, Ventura, Orange, San Bernardino Counties (California)",,7.0,0.34 N,30.12 E,,1994-01-17,1994-01-17,60.0,7000.0,,20000.0,27000.0,10400000.0,20533718.0,30000000.0,59231878.0,50.6484026622566
-1994,,JPN,East coast of Hokaido Isl.,,8.0,45.10 N,147.51 E,,1994-10-04,1994-10-04,5.0,1500.0,,,1500.0,11700.0,23100.0,,,50.6484026622566
-1994,,JPN,Hachinohe (North-East Honshu),,8.0,40.5 N,143.4 E,,1994-12-28,1994-12-28,2.0,285.0,,,285.0,,,170400.0,336437.0,50.6484026622566
-1995,,JPN,"Kobe, Osaka, Hyigo, Kyoto prefecture",,7.0,34.58 N,135.0 E ,05:46,1995-01-17,1995-01-17,5297.0,34492.0,255843.0,251301.0,541636.0,3000000.0,5761553.0,100000000.0,192051751.0,52.0692986874991
-1995,,COL,"Boyaca Province, Casanare Department",,7.0,4.9 N,73.1 W,10:05,1995-01-19,1995-01-19,7.0,35.0,2560.0,250.0,2845.0,,,,,52.0692986874991
-1995,,COL,Pereira,,6.0,4.1 N,76.6 W,13:40,1995-02-08,1995-02-08,40.0,230.0,11867.0,3000.0,15097.0,,,,,52.0692986874991
-1995,,COL,Pasto area,,5.0,1.12 N,77.17 W,18:23,1995-03-04,1995-03-04,8.0,4.0,255.0,,259.0,,,,,52.0692986874991
-1995,,JPN,Niigata (Eastern Honshu),,5.0,37.925 N,139.186 E,,1995-04-01,1995-04-01,,39.0,1512.0,,1551.0,,,,,52.0692986874991
-1994,,USA,Eureka,,5.0,34.17 N,118.27 W,,1994-12-26,1994-12-26,,,225.0,,225.0,,,2100.0,4146.0,50.6484026622566
-1999,,COL,"Armenia (Quindio), Risaralda, Valle del Cauca, Tolima Departments",,6.0,4.461,-75.724,13:19,1999-01-25,1999-01-25,1186.0,8563.0,745000.0,452370.0,1205933.0,100000.0,175690.0,1857366.0,3263198.0,56.9185870408555
-2000,,JPN,"Aimityoo, Kisimototyoo, Mizokutityoo, Saihakutyoo, Daisentyoo, Nawatyoo, Nakayamatyoo, Hieduson districts (Tottori province), Simane, Okayama provinces",,7.0,35.456,133.134,13:35,2000-10-06,2000-10-06,,130.0,6690.0,312.0,7132.0,150000.0,254926.0,500000.0,849753.0,58.8406484917497
-2000,,COL,Jurado island and Jurado districts (Choco province),,7.0,7.042,-77.829,,2000-11-08,2000-11-08,2.0,,430.0,,430.0,,,,,58.8406484917497
-2000,,JPN,"Koodusimamura, Niizimamura districts (Tookyoo province)",,6.0,34.221,139.131,16:02,2000-07-01,2000-07-01,1.0,,100.0,,100.0,,,,,58.8406484917497
-2000,,USA,"Near Yountville city (Napa district, California province)",,5.0,38.3788333,-122.4133333,1:36,2000-09-03,2000-09-03,,70.0,25000.0,104.0,25174.0,,,50000.0,84975.0,58.8406484917497
-2001,,USA,"Seattle city (King district), Tacoma city (Pierce district), Olympia city (Thurston district) (Washington province)",,7.0,47.149,-122.7266667,10:54,2001-02-28,2001-02-28,1.0,400.0,,,400.0,305000.0,504102.0,2000000.0,3305590.0,60.5035788853056
-2001,,JPN,"Hirosima, Ehime provinces",,7.0,34.083,132.526,15:28,2001-03-24,2001-03-24,2.0,161.0,11100.0,,11261.0,128000.0,211558.0,500000.0,826397.0,60.5035788853056
-2003,,JPN,"Iwate, Miyagi, Yamagata, Akita, Aomori provinces",,7.0,38.849,141.568,18:24,2003-05-26,2003-05-26,,143.0,2160.0,,2303.0,87000.0,138406.0,233000.0,370674.0,62.8584595000413
-2003,,JPN,Hokkaidoo province,,7.0,41.774,143.593,04:50,2003-09-25,2003-09-25,2.0,773.0,,,773.0,87000.0,138406.0,563000.0,895663.0,62.8584595000413
-2003,,JPN,"Sendaisi_Aobaku, Sendaisi_Daisiroku, Sendaisi_Izumiku, Sendaisi_Miyaginoku, Sendaisi_Wakabayasiku, Isinomakisi, Hurukawasi, Kasimadaimati, Nangootyoon, Narusetyoo, Yamototyoo, Yoneyamatyoo districts (Miyagi province)",,6.0,38.432,141.003,07:13,2003-07-25,2003-07-25,,569.0,17403.0,219.0,18191.0,202000.0,321357.0,411000.0,653850.0,62.8584595000413
-2004,,JPN,"Odiyasi, Nagaokasi, Tookamatisi districts (Niigata province) ",,7.0,37.226,138.779,17:56,2004-10-23,2004-10-23,40.0,3183.0,59000.0,,62183.0,760000.0,1177540.0,28000000.0,43383054.0,64.5413292817447
-2004,,COL,Sotara district (Cauca province),,5.0,2.265,-76.595,02:06,2004-08-18,2004-08-18,1.0,2.0,,500.0,502.0,,,,,64.5413292817447
-2004,,COL,"Litoral de San Juan, Litoral de San Juan (is.), Bajo Baudo (is.), Bajo Baudo (pizzaro) districts (Choco province), Cali, Buenaventua, Buenaventura (is.), El Cerrito, Restrepo, Zarzal, Bugalagrande, Calima (darien), Vijes districts (Valle del Cauca province)",,7.0,4.695,-77.508,04:06,2004-11-15,2004-11-15,,20.0,8016.0,,8036.0,,,,,64.5413292817447
-2005,,JPN,Hukuoka province,,7.0,33.807,130.131,10:53,2005-03-20,2005-03-20,1.0,735.0,2800.0,,3535.0,120000.0,179826.0,400000.0,599421.0,66.7310579862028
-2005,,JPN,"Hukuoka, Saga provinces",,6.0,33.637,130.179,,2005-04-19,2005-04-19,,58.0,837.0,,895.0,,,,,66.7310579862028
-2003,,USA,"Paso Robles, Templeton, Atascadero, Cambria, Morro Bay, Oceano villages (San Luis Obispo district, California province)",,7.0,35.7005,-121.1005,11:15,2003-12-22,2003-12-22,2.0,40.0,,120.0,160.0,,,200000.0,318175.0,62.8584595000413
-2006,,USA,Hawai province,,7.0,19.878,-155.935,,2006-10-15,2006-10-15,,10.0,3519.0,,3529.0,40000.0,58069.0,150000.0,217758.0,68.8837587123464
-2007,,JPN,"Nanao, Wajima districts (Isikawa province), Niigata, Toyama provinces",,7.0,37.336,136.588,09:42,2007-03-25,2007-03-25,1.0,359.0,,40668.0,41027.0,22000.0,31052.0,250000.0,352864.0,70.848792703253
-2007,,COL,"El Charco, El Charco (is.), Mosquera, La Tola districts (Narino department)",,7.0,2.966,-77.963,,2007-09-10,2007-09-10,,5.0,170.0,,175.0,,,,,70.848792703253
-2008,,COL,"Quetame district (Cundinamarca province), Meta province",,6.0,4.33,-73.764,,2008-05-24,2008-05-24,11.0,54.0,,1700.0,1754.0,,,10000.0,13593.0,73.5687455355046
-2007,,JPN,"Aikawamati, Akadomarimura, Hatanomati, Izumozakimati, Kanaimati, Kariwamura, Kasiwazakisi, Manomati, Nagaokasi, Niigatasi, Odiyasi, Ogimati, Sanzyoosi, Sawatamati, Yosidamati, Zyooetusi districts (Niigata province), Nagano, Toyama provinces",,7.0,37.535,138.446,10:13,2007-07-16,2007-07-16,9.0,1000.0,13000.0,,14000.0,335000.0,472838.0,12500000.0,17643208.0,70.848792703253
-2007,,JPN,"Mie, Nara, Siga provinces",,5.0,34.807,136.239,,2007-04-15,2007-04-15,,12.0,189.0,,201.0,,,,,70.848792703253
-2008,,JPN,"Mizusawasi, Moriokasi districts (Iwate province), Tukidatetyoo, Hurukawasi, Sendaisi_Aobaku, Sendaisi_Daisiroku, Sendaisi_Izumiku, Sendaisi_Miyaginoku, Sendaisi_Wakabayasiku districts (Miyagi province), Akita province",,7.0,39.03,140.881,08:43,2008-06-13,2008-06-13,23.0,448.0,,,448.0,55000.0,74760.0,167000.0,226999.0,73.5687455355046
-2008,,JPN,Hatinohesi district (Aomori province),,7.0,39.802,141.464,00:26,2008-07-23,2008-07-24,1.0,200.0,270.0,,470.0,,,110000.0,149520.0,73.5687455355046
-2008,,USA,"Wells city (Elko district, Nevada province)",,6.0,41.1444,-114.8721,06:16,2008-02-21,2008-02-21,,3.0,2100.0,,2103.0,,,,,73.5687455355046
-2011,,JPN,"Ishinomakisi, Onagawatyoo districts (Miyagi province), Yamagata province",,7.0,38.276,141.588,23:32,2011-04-07,2011-04-07,2.0,132.0,,,132.0,,,,,76.8615953778198
-2009,,JPN,"Sizuokasi, Yaidusi, Sagaratyoo, Huziedasi, Simadasi, Kakegawasi, Haibaratyoo districts (Sizuola province), Tookyoo province",,6.0,34.743,138.264,05:07,2009-08-10,2009-08-10,1.0,319.0,25000.0,,25319.0,250000.0,341031.0,400000.0,545649.0,73.3071767219387
-2010,,USA,"Ferndale, Eureka cities (Humboldt district, California province)",,7.0,40.652,-124.6925,04:27,2010-01-10,2010-01-10,,30.0,600.0,,630.0,,,12500.0,16776.0,74.5094440781961
-2011,,JPN,"Hokkaidoo, Akita, Aomori, Yamagata, Miyagi, Iwate, Hukusima, Tookyoo, Ibaraki, Totigi, Gunma, Saitama, Tiba, Kanagawa, Nagano provinces",,9.0,38.297,142.373,14:46,2011-03-11,2011-03-11,19846.0,5933.0,362887.0,,368820.0,37500000.0,48788995.0,210000000.0,273218373.0,76.8615953778198
-2013,,COL,"Narino, Cauca, Risaralda, Quindio,Valle Del Cauca provinces",,7.0,1.135,-77.393,09:16,2013-02-09,2013-02-09,,15.0,9500.0,500.0,10015.0,,,4000.0,5025.0,79.6013094233451
-2013,,JPN,Hyogo province,,6.0,34.369,134.828,05:33,2013-04-12,2013-04-12,,32.0,8406.0,,8438.0,,,,,79.6013094233451
-2015,,COL,"Santafe de Bogota D.c. district (Cundinamarca province), Cali district (Valle del Cauca province); Bucaramanga, Betulia districts (Santander Province)",,6.0,6.7757,-72.9875,,2015-03-10,2015-03-10,,1.0,40835.0,400.0,41236.0,,,,,80.9885789905908
-2014,,JPN,"Hakuba village (Hakubamura district, Nagano province)",,6.0,36.6408,137.8875,22:08,2014-11-22,2014-11-22,,41.0,2466.0,150.0,2657.0,,,2000.0,2472.0,80.8926237222027
-2016,,JPN,Kumamoto province (Kyushu Isl.),,7.0,32.788,130.7,21:26,2016-04-14,2016-04-14,9.0,800.0,120000.0,,120800.0,,,38000000.0,46335626.0,82.010330903136
-2016,,JPN,"Kumamoto, Fukuoka, Saga, Oita, Miyazaki provinces",,7.0,32.791,130.75,17:00,2016-04-16,2016-04-16,49.0,1684.0,272763.0,23985.0,298432.0,5000000.0,6096793.0,20000000.0,24387171.0,82.010330903136
-2014,,USA,"San Francisco Bay (San Francisco district) , Napa Valley (Napa district) ; Sonoma, Solano district (California province) ; Vallejo, Mare Island cities (Solano district, California province)",,6.0,38.2151667,-122.3123333,03:20,2014-08-24,2014-08-24,1.0,250.0,3000.0,,3250.0,150000.0,185431.0,700000.0,865345.0,80.8926237222027
-2016,,JPN,"Kurayoshi city (Kurayosisi district, Tottori province)",,6.0,35.37,133.812,,2016-10-21,2016-10-21,,7.0,480.0,6.0,493.0,,,100000.0,121936.0,82.010330903136
-2018,,JPN,"Atsuma village, Abira, Sapporo (Hokkaido)",,7.0,,,03:00,2018-09-06,2018-09-06,41.0,680.0,5600.0,,6280.0,,,1250000.0,1456825.0,85.8030260572654
-2018,,JPN,"Hyogo, Kyoto, Nara, Osaka Prefectures",,6.0,34.826,135.64,07:58,2018-06-18,2018-06-18,5.0,417.0,20298.0,,20715.0,,,3250000.0,3787745.0,85.8030260572654
-2019,,JPN,"Yamagata, Miyagi, Niigata,Ishikawa (Honshu Island)",,6.0,38.637,139.48,,2019-06-18,2019-06-18,,28.0,432.0,,460.0,,,,,87.3580067738847
-1923,,COL,Ipiales,,5.0,1,-77.5,05:31,1923-12-14,1923-12-14,300.0,,,,,,,,,5.8349248693479
-1936,,COL,,,7.0,1.1,-77.6,04:23,1936-01-09,1936-01-09,,,,,,,,,,4.7522727939805
-1936,,COL,Pasto,,,1.2,-77.3,,1936-08-14,1936-08-14,18.0,,,,,,,,,4.7522727939805
-1958,,COL,Colombia-Ecuador,,8.0,1.5,-79.5,09:07,1958-01-19,1958-01-19,111.0,46.0,,,46.0,,,,,9.86087781901
-1967,,COL,,,7.0,6.747,-73.032,11:24,1967-07-29,1967-07-29,20.0,,,,,,,,,11.3985269797253
-1974,,COL,"Bogota, Cali, Pereira",,7.0,7.747,-77.688,20:18,1974-07-12,1974-07-12,11.0,,,,,,,,,16.8486291063234
-2016,,USA,Cushing (Oklahoma),,5.0,35.991,-96.803,,2016-11-07,2016-11-07,,,120.0,,120.0,,,20000.0,24387.0,82.010330903136
-2019,,USA,Ridgecrest (Califronia),,7.0,35.77,-117.599,20:19,2019-07-05,2019-07-05,,,150.0,,150.0,50000.0,57236.0,200000.0,228943.0,87.3580067738847
-1905,,JPN,Aki,,8.0,34,132,14:39,1905-06-02,1905-06-02,11.0,,177.0,,177.0,,,,,3.0770111615701
-1909,,JPN,Oomi,,7.0,35.4,136.3,15:30,1909-08-14,1909-08-14,41.0,,,2928.0,2928.0,,,,,3.0770111615701
-1911,,JPN,Ryukyu Islands,,8.0,28,130,23:26,1911-06-15,1911-06-15,12.0,,,1266.0,1266.0,,,,,3.1909745379246
-1922,,JPN,Kyushu,,,32.7,130.3,,1922-12-08,1922-12-08,27.0,,,,,,,,,5.7323578306288
-1925,,JPN,Tajima (Honshu),,7.0,35.423,135.007,11:09,1925-05-23,1925-05-23,395.0,,,9999.0,9999.0,,,,,6.0058699338795
-1939,,JPN,Honshu,,7.0,39.945,139.682,14:58,1939-05-01,1939-05-01,27.0,52.0,,1437.0,1489.0,,,,,4.763669131616
-1952,,JPN,Hokkaido,,7.0,41.831,143.525,02:03,1952-03-10,1952-03-10,,17.0,,339.0,356.0,,,,,9.0942774330851
-1961,,JPN,Honshu,,7.0,36,136.7,14:33,1961-08-19,1961-08-19,10.0,,,,,,,,,10.2139637268352
-1973,,JPN,Hokkaido Isl.,,8.0,43.233,145.785,12:55,1973-06-17,1973-06-17,,27.0,,,27.0,,,5000.0,32957.0,15.1714528217231
-2021,,JPN,Namie region,,7.0,37.745,141.749,23:07,2021-02-13,2021-02-13,1.0,185.0,7647.0,60.0,7892.0,2300000.0,2484064.0,7700000.0,8316216.0,92.5901929309929
-2021,,JPN,Honshu Island,,7.0,38.475,141.633,18:09,2021-03-20,2021-03-20,,11.0,600.0,,611.0,,,550000.0,594015.0,92.5901929309929
-2022,,JPN,Fukushima Prefecture,,7.0,37.702,141.587,23:36,2022-03-16,2022-03-16,3.0,183.0,558.0,,741.0,2800000.0,2800000.0,8800000.0,8800000.0,100.0
-1973,,USA,Oxnard (California),,6.0,34.1,-119,06:45,1973-02-21,1973-02-21,,,,,,,,1000.0,6591.0,15.1714528217231
-1973,,USA,Hilo (Hawai),,7.0,19.936,-155.098,10:26,1973-04-26,1973-04-26,,11.0,,,11.0,,,5750.0,37900.0,15.1714528217231
-1975,,USA,Pocatello valley (Idaho),,6.0,42.06,-122.55,20:31,1975-03-27,1975-03-27,,,1560.0,,1560.0,,,1000.0,5438.0,18.3891290650193
-2022,,USA,Humboldt County (California),,6.0,40.525,124.423,02:34,2022-12-20,2022-12-20,2.0,12.0,,,12.0,,,250000.0,250000.0,100.0
-2023,,JPN,Ishikawa,,6.0,,,14:42,2023-05-06,2023-05-06,1.0,34.0,1050.0,,1084.0,,,,,
+Year,Disaster Subtype,ISO,Location,Dis Mag Value,Latitude,Longitude,Local Time,date,End date,Total Deaths,Total Affected,Total Damages US$(2021)
+1906,Ground movement,COL,Tumako,9.0,1.51 N,78.46 W ,,1906-01-31,1906-01-31,400.0,,
+1950,Ground movement,COL,"Santander, Amboledas",,7.8,-72.5,21:35,1950-07-08,1950-07-08,211.0,40000.0,60683.0
+1962,Ground movement,COL,"Mistrato, Manizales",7.0,5.173,-76.352,13:53,1962-07-30,1962-07-30,47.0,300.0,
+1967,Ground movement,COL,"Neiva (Huila deparment); Rivera, San Antonio",7.0,2.849,-74.798,10:24,1967-02-09,1967-02-09,61.0,40200.0,5264.0
+1970,Ground movement,COL,Pereira (Bahia Solano),7.0,6.375,-77.438,22:38,1970-09-25,1970-09-25,,3006.0,3015.0
+1901,Tsunami,JPN,Sanriku,8.0,40.5,142.5,03:33,1901-08-10,1901-08-10,18.0,24.0,
+1905,Tsunami,JPN,Fukushima,7.0,37.4,142.6,01:21,1907-07-07,1907-07-07,41.0,,
+1906,Ground movement,USA,San Francisco (California),8.0,37.67,-122.48,05:12,1906-04-18,1906-04-18,700.0,84564.0,17029512.0
+1914,Ground movement,JPN,Akita Senboku,7.0,39.2,139.8,05:00,1914-03-16,1914-03-16,94.0,1920.0,
+1915,Ground movement,USA,El Centro (California),6.0,32.47,-115.33,20:56,1915-06-22,1915-06-22,6.0,,28864.0
+1923,Ground movement,JPN,"Kanto plaine (Yokohama,Tokyo)",8.0,35.413,139.298,11:58,1923-09-01,1923-09-01,143000.0,203733.0,10282909.0
+1925,Ground movement,USA,Santa Barbara (California),6.0,34.25 N,119.41 W,,1925-06-29,1925-06-29,13.0,,133203.0
+1927,Ground movement,JPN,"Tango, Honshu",7.0,35.632,135.013,18:27,1927-03-07,1927-03-07,3022.0,79540.0,672395.0
+1930,Ground movement,JPN,Idu (Honshu),7.0,35.05,139.129,04:02,1930-11-26,1930-11-26,259.0,26122.0,
+1933,Ground movement,USA,Long Beach (California),6.0,33.62,117.97,17:54,1933-03-10,1933-03-10,116.0,,868452.0
+1933,Tsunami,JPN,Sanriku,8.0,39.224,144.622,02:1,1933-03-03,1933-03-03,3000.0,,
+1940,Ground movement,USA,Imperial Valley (California),7.0,32.733,-115.5,20:36,1940-05-18,1940-05-18,9.0,,687807.0
+1943,Ground movement,JPN,Tottori (Honshu Isl.),7.0,35.448,133.993,17:37,1943-09-10,1943-09-10,1400.0,23217.0,
+1944,Tsunami,JPN,"Tonankai, Hondo",8.0,33.682,36.204,13:35,1944-12-07,1944-12-07,1223.0,80573.0,
+1945,Ground movement,JPN,"Mikawa (Near Nagoya, Honshu Isl.)",7.0,34.612,137.064,03:38,1945-01-13,1945-01-13,2306.0,22559.0,
+1946,Ground movement,JPN,"Nankaido, Tonankai (Honshu Isl.)",8.0,33.116,135.895,04:19,1946-12-21,1946-12-21,2000.0,,
+1946,Tsunami,USA,"Alaska, Hawi and California",9.0,53.492,-162.832,03:29,1946-04-01,1946-04-01,165.0,,374349.0
+1948,Ground movement,JPN,Fukui,7.0,36.5,136,16:13,1948-06-28,1948-06-28,5131.0,326000.0,12153392.0
+1949,Ground movement,USA,"Puget Sound, Olympia (Washington state)",7.0,47.167,-122.617,12:55,1949-04-13,1949-04-13,8.0,,306809.0
+1952,Ground movement,JPN,Hokkaido Isl.,8.0,42.084,143.899,10:22,1952-03-04,1952-03-04,33.0,200.0,
+1952,Ground movement,USA,Kern county (California),8.0,34.958,-118.998,04:52,1952-07-21,1952-07-21,12.0,200.0,659756.0
+1952,Ground movement,USA,"Bakersfield, Kern County (California)",6.0,35.333,-118.917,15:41,1952-08-22,1952-08-22,2.0,270.0,109959.0
+1952,Tsunami,USA,Hawai,,,,,1952-11-04,1952-11-04,,,9896.0
+1959,Ground movement,USA,Hebgen Lake (Montana),7.0,44.712,-111.215,23:37,1959-08-17,1959-08-17,28.0,,110436.0
+1960,Tsunami,JPN,"Onagawa, Honshu Island",,,,,1960-05-22,1960-05-22,138.0,,1385348.0
+1960,Tsunami,USA,Hawaii,10.0,,,,1960-05-23,1960-05-23,61.0,,5689823.0
+1964,Tsunami,JPN,"Niigata, Hodo Isl.",7.0,38.67,139.195,13:01,1964-06-16,1964-06-16,25.0,35376.0,7548326.0
+1964,Tsunami,USA,"Anchorage, Chitina, Glennallen, Homer, Hope, Kasilof, Kenai, Kodiak, Moose Pass, Portage, Seldovia, Seward, Sterling, Valdez, Wasilla, Whittier (Alaska)",9.0,60.908,-147.339,18:36,1964-03-27,1964-03-27,131.0,,2934412.0
+1965,Ground movement,USA,Seattle (Washington),7.0,47.4,-122.3,07:28,1965-04-29,1965-04-29,7.0,,260069.0
+1968,Ground movement,JPN,Aomori Prefecture - Hokkaido,7.0,40.5,140.43,,1968-05-17,1968-05-17,47.0,2781.0,1102188.0
+1971,Ground movement,USA,San Fernando (Los Angeles),7.0,34.416,-118.37,06:00,1971-02-09,1971-02-09,65.0,2000.0,3996825.0
+1974,Ground movement,JPN,"Izu-Hanto, Nakagi",7.0,34.522,138.74,08:33,1974-05-09,1974-05-09,30.0,73.0,
+1978,Ground movement,JPN,"Oshima, Yokohama, Tokkaido",7.0,34.809,139.259,12:24,1978-01-14,1978-01-14,25.0,2016.0,
+1978,Ground movement,JPN,Sendai (Near Esat coast of Honshu),8.0,38.19,142.028,17:14,1978-06-12,1978-06-12,28.0,2500.0,3880630.0
+1979,Ground movement,COL,"Pasto, Buenaventura, Narino, Cauca provinces, Tumaco Isl.; Gorgona Isl.",8.0,1.598,-79.358,02:59,1979-12-12,1979-12-12,579.0,11042.0,32260.0
+1979,Ground movement,COL,Manizales-Armenia area,7.0,4.805,-76.217,18:40,1979-11-23,1979-11-23,60.0,600.0,80649.0
+1981,Ground movement,COL,Colombia/Venezuela border,5.0,8.117,-72.527,23:31,1981-10-18,1981-10-18,10.0,,16093.0
+1983,Ground movement,COL,Popayan city (Cauca department),5.0,2.461,-76.686,08:12,1983-03-31,1983-03-31,250.0,36200.0,1207348.0
+1980,Ground movement,JPN,"Tokyo, Kanto region",6.0,35.45,139.964,02:54,1980-09-25,1980-09-25,2.0,73.0,3551.0
+1982,Ground movement,JPN,"Hokkaido, Urakawa, Hiroo",7.0,42.158,142.361,11:32,1982-03-21,1982-03-21,110.0,1100.0,3033.0
+1983,Ground movement,JPN,Near South coast Honshu,5.0,35.5,139.07,12:47,1983-08-08,1983-08-08,1.0,28.0,
+1983,Tsunami,JPN,"Nihon- Kai-Chubu, Western Honshu, Akita, Aomori, Hokkaido",8.0,40.462,139.102,11:59,1983-05-26,1983-05-26,102.0,77.0,1222334.0
+1984,Ground movement,JPN,"Honshu, Nagano prefecture (Honshu)",7.0,36.39 N,138.10 E,,1984-09-14,1984-09-14,20.0,,121137.0
+1984,Ground movement,JPN,Kyushu (Shikoku Island),7.0,32.50 N,130.42 E,,1984-08-06,1984-08-06,,9.0,
+1987,Ground movement,JPN,Chiba prefecture (Near Tokyo),6.0,35.38,140.214,11:08,1987-12-17,1987-12-17,2.0,22652.0,
+1983,Ground movement,USA,Kapapala area (Hawai),6.0,19.43,-155.454,06:13,1983-11-16,1983-11-16,,6.0,18364.0
+1983,Ground movement,USA,Coalinga area (Central California),5.0,36.219,-120.317,16:42,1983-05-02,1983-05-02,,1545.0,91087.0
+1983,Ground movement,USA,"Borah Peak, Challis, Mackay (Eastern Idaho)",7.0,44.058,-113.857,08:06,1983-10-28,1983-10-28,2.0,2.0,44075.0
+1986,Ground movement,USA,Newport Beach-San Diego area,6.0,32.978 N,117.858 W,,1986-07-13,1986-07-13,,179.0,1922.0
+1987,Ground movement,USA,Los Angeles-Whittier (California),6.0,34.061,-118.079,07:42,1987-10-01,1987-10-01,8.0,2200.0,548607.0
+1987,Ground movement,USA,Imperial county (California),7.0,33.013,115.838,05:15,1987-11-24,1987-11-24,,94.0,10302.0
+1991,Ground movement,COL,"Buenaventura, Cali (Choco Department)",7.0,3.554 N,77.442 W,16:28,1991-11-19,1991-11-19,2.0,867.0,
+1992,Ground movement,COL,"(1) Murindo, Vigia del Fuerte, Gedeza, Bellaluz, Bebaremeno, Bellavista (Antioquia and Choco Province), (2) Murindo Apartado Medellin area, (3) San Pedro de Uraba",7.0,7.123 N,7 W.887 ,3:32,1992-10-17,1992-10-17,11.0,1635.0,
+1993,Ground movement,COL,"Arauca, Puerto Rondon, Puerto Colombia",6.0,6.47,-71.210,,1993-07-22,1993-07-22,2.0,3071.0,
+1994,Ground movement,COL,"Toez, Irlanda, Belalcazar, Mosoco, Monte Cruz, La Cruz, San Jose Cabuya (Cauca Department and Huila Department)",6.0,30.0 N ,76.2 W,15:47,1994-06-06,1994-06-06,271.0,37416.0,4739.0
+1992,Ground movement,JPN,Kanto area (Tokyo),6.0,35.106 N,139.644 E,,1992-02-02,1992-02-02,,32.0,
+1993,Tsunami,JPN,Okushiri Island (Hokkaido),8.0,42.851 N,139.197 E,,1993-07-12,1993-07-12,239.0,7355.0,2025877.0
+1993,Ground movement,JPN,Near Kushiro (Hokkaido),8.0,43.300 N,143.691 E,,1993-01-15,1993-01-15,2.0,10522.0,725264.0
+1989,Ground movement,USA,"San Francisco, Oakland, San Mateo, Santa Clara, San Jose, Santa Cruz, Berkeley, Holister, Silicon Valley (California)",7.0,37.036,-121.88,17:04,1989-10-18,1989-10-18,62.0,3757.0,13220224.0
+1989,Ground movement,USA,Puna district (Hawaii),6.0,19.362,-155.083,17:27,1989-06-26,1989-06-26,5.0,315.0,
+1990,Ground movement,USA,Southern California,6.0,34.140 N,117.70 W,,1990-02-28,1990-02-28,,30.0,28446.0
+1990,Ground movement,USA,Alamo (central California),4.0,37.885 N,121.983 W,,1990-03-30,1990-03-30,,120.0,
+1991,Ground movement,USA,Pasadena area (California),6.0,34.10 N,118.09 W,,1991-06-28,1991-06-28,2.0,100.0,71986.0
+1992,Ground movement,USA,"Ferndale, Fortuna and Petrolia areas (North California)",7.0,40.415 N,124.603 W,,1992-04-25,1992-04-25,,94.0,156426.0
+1992,Ground movement,USA,Landers California,7.0,34.00 N ,118.15 W,,1992-06-28,1992-06-28,1.0,300.0,208567.0
+1992,Ground movement,USA,South California,6.0,33.961,-116.32,21:50,1992-04-22,1992-04-22,,32.0,208567.0
+1993,Ground movement,USA,Klamath Falls (Oregon),6.0,42.314,-122.01,20:28,1993-09-21,1993-09-21,2.0,3000.0,15194.0
+1994,Ground movement,USA,"Los Angeles, Ventura, Orange, San Bernardino Counties (California)",7.0,0.34 N,30.12 E,,1994-01-17,1994-01-17,60.0,27000.0,59231878.0
+1994,Ground movement,JPN,East coast of Hokaido Isl.,8.0,45.10 N,147.51 E,,1994-10-04,1994-10-04,5.0,1500.0,
+1994,Ground movement,JPN,Hachinohe (North-East Honshu),8.0,40.5 N,143.4 E,,1994-12-28,1994-12-28,2.0,285.0,336437.0
+1995,Ground movement,JPN,"Kobe, Osaka, Hyigo, Kyoto prefecture",7.0,34.58 N,135.0 E ,05:46,1995-01-17,1995-01-17,5297.0,541636.0,192051751.0
+1995,Ground movement,COL,"Boyaca Province, Casanare Department",7.0,4.9 N,73.1 W,10:05,1995-01-19,1995-01-19,7.0,2845.0,
+1995,Ground movement,COL,Pereira,6.0,4.1 N,76.6 W,13:40,1995-02-08,1995-02-08,40.0,15097.0,
+1995,Ground movement,COL,Pasto area,5.0,1.12 N,77.17 W,18:23,1995-03-04,1995-03-04,8.0,259.0,
+1995,Ground movement,JPN,Niigata (Eastern Honshu),5.0,37.925 N,139.186 E,,1995-04-01,1995-04-01,,1551.0,
+1994,Ground movement,USA,Eureka,5.0,34.17 N,118.27 W,,1994-12-26,1994-12-26,,225.0,4146.0
+1999,Ground movement,COL,"Armenia (Quindio), Risaralda, Valle del Cauca, Tolima Departments",6.0,4.461,-75.724,13:19,1999-01-25,1999-01-25,1186.0,1205933.0,3263198.0
+2000,Ground movement,JPN,"Aimityoo, Kisimototyoo, Mizokutityoo, Saihakutyoo, Daisentyoo, Nawatyoo, Nakayamatyoo, Hieduson districts (Tottori province), Simane, Okayama provinces",7.0,35.456,133.134,13:35,2000-10-06,2000-10-06,,7132.0,849753.0
+2000,Ground movement,COL,Jurado island and Jurado districts (Choco province),7.0,7.042,-77.829,,2000-11-08,2000-11-08,2.0,430.0,
+2000,Ground movement,JPN,"Koodusimamura, Niizimamura districts (Tookyoo province)",6.0,34.221,139.131,16:02,2000-07-01,2000-07-01,1.0,100.0,
+2000,Ground movement,USA,"Near Yountville city (Napa district, California province)",5.0,38.3788333,-122.4133333,1:36,2000-09-03,2000-09-03,,25174.0,84975.0
+2001,Ground movement,USA,"Seattle city (King district), Tacoma city (Pierce district), Olympia city (Thurston district) (Washington province)",7.0,47.149,-122.7266667,10:54,2001-02-28,2001-02-28,1.0,400.0,3305590.0
+2001,Ground movement,JPN,"Hirosima, Ehime provinces",7.0,34.083,132.526,15:28,2001-03-24,2001-03-24,2.0,11261.0,826397.0
+2003,Ground movement,JPN,"Iwate, Miyagi, Yamagata, Akita, Aomori provinces",7.0,38.849,141.568,18:24,2003-05-26,2003-05-26,,2303.0,370674.0
+2003,Ground movement,JPN,Hokkaidoo province,7.0,41.774,143.593,04:50,2003-09-25,2003-09-25,2.0,773.0,895663.0
+2003,Ground movement,JPN,"Sendaisi_Aobaku, Sendaisi_Daisiroku, Sendaisi_Izumiku, Sendaisi_Miyaginoku, Sendaisi_Wakabayasiku, Isinomakisi, Hurukawasi, Kasimadaimati, Nangootyoon, Narusetyoo, Yamototyoo, Yoneyamatyoo districts (Miyagi province)",6.0,38.432,141.003,07:13,2003-07-25,2003-07-25,,18191.0,653850.0
+2004,Ground movement,JPN,"Odiyasi, Nagaokasi, Tookamatisi districts (Niigata province) ",7.0,37.226,138.779,17:56,2004-10-23,2004-10-23,40.0,62183.0,43383054.0
+2004,Ground movement,COL,Sotara district (Cauca province),5.0,2.265,-76.595,02:06,2004-08-18,2004-08-18,1.0,502.0,
+2004,Ground movement,COL,"Litoral de San Juan, Litoral de San Juan (is.), Bajo Baudo (is.), Bajo Baudo (pizzaro) districts (Choco province), Cali, Buenaventua, Buenaventura (is.), El Cerrito, Restrepo, Zarzal, Bugalagrande, Calima (darien), Vijes districts (Valle del Cauca province)",7.0,4.695,-77.508,04:06,2004-11-15,2004-11-15,,8036.0,
+2005,Ground movement,JPN,Hukuoka province,7.0,33.807,130.131,10:53,2005-03-20,2005-03-20,1.0,3535.0,599421.0
+2005,Ground movement,JPN,"Hukuoka, Saga provinces",6.0,33.637,130.179,,2005-04-19,2005-04-19,,895.0,
+2003,Ground movement,USA,"Paso Robles, Templeton, Atascadero, Cambria, Morro Bay, Oceano villages (San Luis Obispo district, California province)",7.0,35.7005,-121.1005,11:15,2003-12-22,2003-12-22,2.0,160.0,318175.0
+2006,Ground movement,USA,Hawai province,7.0,19.878,-155.935,,2006-10-15,2006-10-15,,3529.0,217758.0
+2007,Ground movement,JPN,"Nanao, Wajima districts (Isikawa province), Niigata, Toyama provinces",7.0,37.336,136.588,09:42,2007-03-25,2007-03-25,1.0,41027.0,352864.0
+2007,Ground movement,COL,"El Charco, El Charco (is.), Mosquera, La Tola districts (Narino department)",7.0,2.966,-77.963,,2007-09-10,2007-09-10,,175.0,
+2008,Ground movement,COL,"Quetame district (Cundinamarca province), Meta province",6.0,4.33,-73.764,,2008-05-24,2008-05-24,11.0,1754.0,13593.0
+2007,Ground movement,JPN,"Aikawamati, Akadomarimura, Hatanomati, Izumozakimati, Kanaimati, Kariwamura, Kasiwazakisi, Manomati, Nagaokasi, Niigatasi, Odiyasi, Ogimati, Sanzyoosi, Sawatamati, Yosidamati, Zyooetusi districts (Niigata province), Nagano, Toyama provinces",7.0,37.535,138.446,10:13,2007-07-16,2007-07-16,9.0,14000.0,17643208.0
+2007,Ground movement,JPN,"Mie, Nara, Siga provinces",5.0,34.807,136.239,,2007-04-15,2007-04-15,,201.0,
+2008,Ground movement,JPN,"Mizusawasi, Moriokasi districts (Iwate province), Tukidatetyoo, Hurukawasi, Sendaisi_Aobaku, Sendaisi_Daisiroku, Sendaisi_Izumiku, Sendaisi_Miyaginoku, Sendaisi_Wakabayasiku districts (Miyagi province), Akita province",7.0,39.03,140.881,08:43,2008-06-13,2008-06-13,23.0,448.0,226999.0
+2008,Ground movement,JPN,Hatinohesi district (Aomori province),7.0,39.802,141.464,00:26,2008-07-23,2008-07-24,1.0,470.0,149520.0
+2008,Ground movement,USA,"Wells city (Elko district, Nevada province)",6.0,41.1444,-114.8721,06:16,2008-02-21,2008-02-21,,2103.0,
+2011,Ground movement,JPN,"Ishinomakisi, Onagawatyoo districts (Miyagi province), Yamagata province",7.0,38.276,141.588,23:32,2011-04-07,2011-04-07,2.0,132.0,
+2009,Tsunami,JPN,"Sizuokasi, Yaidusi, Sagaratyoo, Huziedasi, Simadasi, Kakegawasi, Haibaratyoo districts (Sizuola province), Tookyoo province",6.0,34.743,138.264,05:07,2009-08-10,2009-08-10,1.0,25319.0,545649.0
+2010,Ground movement,USA,"Ferndale, Eureka cities (Humboldt district, California province)",7.0,40.652,-124.6925,04:27,2010-01-10,2010-01-10,,630.0,16776.0
+2011,Tsunami,JPN,"Hokkaidoo, Akita, Aomori, Yamagata, Miyagi, Iwate, Hukusima, Tookyoo, Ibaraki, Totigi, Gunma, Saitama, Tiba, Kanagawa, Nagano provinces",9.0,38.297,142.373,14:46,2011-03-11,2011-03-11,19846.0,368820.0,273218373.0
+2013,Ground movement,COL,"Narino, Cauca, Risaralda, Quindio,Valle Del Cauca provinces",7.0,1.135,-77.393,09:16,2013-02-09,2013-02-09,,10015.0,5025.0
+2013,Ground movement,JPN,Hyogo province,6.0,34.369,134.828,05:33,2013-04-12,2013-04-12,,8438.0,
+2015,Ground movement,COL,"Santafe de Bogota D.c. district (Cundinamarca province), Cali district (Valle del Cauca province); Bucaramanga, Betulia districts (Santander Province)",6.0,6.7757,-72.9875,,2015-03-10,2015-03-10,,41236.0,
+2014,Ground movement,JPN,"Hakuba village (Hakubamura district, Nagano province)",6.0,36.6408,137.8875,22:08,2014-11-22,2014-11-22,,2657.0,2472.0
+2016,Ground movement,JPN,Kumamoto province (Kyushu Isl.),7.0,32.788,130.7,21:26,2016-04-14,2016-04-14,9.0,120800.0,46335626.0
+2016,Ground movement,JPN,"Kumamoto, Fukuoka, Saga, Oita, Miyazaki provinces",7.0,32.791,130.75,17:00,2016-04-16,2016-04-16,49.0,298432.0,24387171.0
+2014,Ground movement,USA,"San Francisco Bay (San Francisco district) , Napa Valley (Napa district) ; Sonoma, Solano district (California province) ; Vallejo, Mare Island cities (Solano district, California province)",6.0,38.2151667,-122.3123333,03:20,2014-08-24,2014-08-24,1.0,3250.0,865345.0
+2016,Ground movement,JPN,"Kurayoshi city (Kurayosisi district, Tottori province)",6.0,35.37,133.812,,2016-10-21,2016-10-21,,493.0,121936.0
+2018,Ground movement,JPN,"Atsuma village, Abira, Sapporo (Hokkaido)",7.0,,,03:00,2018-09-06,2018-09-06,41.0,6280.0,1456825.0
+2018,Ground movement,JPN,"Hyogo, Kyoto, Nara, Osaka Prefectures",6.0,34.826,135.64,07:58,2018-06-18,2018-06-18,5.0,20715.0,3787745.0
+2019,Ground movement,JPN,"Yamagata, Miyagi, Niigata,Ishikawa (Honshu Island)",6.0,38.637,139.48,,2019-06-18,2019-06-18,,460.0,
+1923,Ground movement,COL,Ipiales,5.0,1,-77.5,05:31,1923-12-14,1923-12-14,300.0,,
+1936,Ground movement,COL,,7.0,1.1,-77.6,04:23,1936-01-09,1936-01-09,,,
+1936,Ground movement,COL,Pasto,,1.2,-77.3,,1936-08-14,1936-08-14,18.0,,
+1958,Tsunami,COL,Colombia-Ecuador,8.0,1.5,-79.5,09:07,1958-01-19,1958-01-19,111.0,46.0,
+1967,Ground movement,COL,,7.0,6.747,-73.032,11:24,1967-07-29,1967-07-29,20.0,,
+1974,Ground movement,COL,"Bogota, Cali, Pereira",7.0,7.747,-77.688,20:18,1974-07-12,1974-07-12,11.0,,
+2016,Ground movement,USA,Cushing (Oklahoma),5.0,35.991,-96.803,,2016-11-07,2016-11-07,,120.0,24387.0
+2019,Ground movement,USA,Ridgecrest (Califronia),7.0,35.77,-117.599,20:19,2019-07-05,2019-07-05,,150.0,228943.0
+1905,Ground movement,JPN,Aki,8.0,34,132,14:39,1905-06-02,1905-06-02,11.0,177.0,
+1909,Ground movement,JPN,Oomi,7.0,35.4,136.3,15:30,1909-08-14,1909-08-14,41.0,2928.0,
+1911,Ground movement,JPN,Ryukyu Islands,8.0,28,130,23:26,1911-06-15,1911-06-15,12.0,1266.0,
+1922,Ground movement,JPN,Kyushu,,32.7,130.3,,1922-12-08,1922-12-08,27.0,,
+1925,Ground movement,JPN,Tajima (Honshu),7.0,35.423,135.007,11:09,1925-05-23,1925-05-23,395.0,9999.0,
+1939,Ground movement,JPN,Honshu,7.0,39.945,139.682,14:58,1939-05-01,1939-05-01,27.0,1489.0,
+1952,Ground movement,JPN,Hokkaido,7.0,41.831,143.525,02:03,1952-03-10,1952-03-10,,356.0,
+1961,Ground movement,JPN,Honshu,7.0,36,136.7,14:33,1961-08-19,1961-08-19,10.0,,
+1973,Ground movement,JPN,Hokkaido Isl.,8.0,43.233,145.785,12:55,1973-06-17,1973-06-17,,27.0,32957.0
+2021,Ground movement,JPN,Namie region,7.0,37.745,141.749,23:07,2021-02-13,2021-02-13,1.0,7892.0,8316216.0
+2021,Ground movement,JPN,Honshu Island,7.0,38.475,141.633,18:09,2021-03-20,2021-03-20,,611.0,594015.0
+2022,Ground movement,JPN,Fukushima Prefecture,7.0,37.702,141.587,23:36,2022-03-16,2022-03-16,3.0,741.0,8800000.0
+1973,Ground movement,USA,Oxnard (California),6.0,34.1,-119,06:45,1973-02-21,1973-02-21,,,6591.0
+1973,Ground movement,USA,Hilo (Hawai),7.0,19.936,-155.098,10:26,1973-04-26,1973-04-26,,11.0,37900.0
+1975,Ground movement,USA,Pocatello valley (Idaho),6.0,42.06,-122.55,20:31,1975-03-27,1975-03-27,,1560.0,5438.0
+2022,Ground movement,USA,Humboldt County (California),6.0,40.525,124.423,02:34,2022-12-20,2022-12-20,2.0,12.0,250000.0
+2023,Ground movement,JPN,Ishikawa,6.0,,,14:42,2023-05-06,2023-05-06,1.0,1084.0,
