@@ -828,8 +828,8 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-20 23:08:28.970,2.56,2.8,84.0,37.6486667,-119.0208333,"4km WNW of Mammoth Lakes, CA",",nc73903386,us7000k9z5,",California,US
 2023-06-20 18:02:29.504,2.8,2.0,63.0,31.6605552,-104.3907401,"57 km S of Whites City, New Mexico",",us7000k9x0,tx2023lzzf,",New Mexico,US
 2023-06-19 21:51:02.180,2.54,1.0,112.0,38.6295,-119.6115,"17km NW of Walker, CA",",nc73903026,nn00861437,us7000k9q1,",Nevada,US
-2023-06-19 14:18:56.000,4.3,4.2,39.0,37.3017,-104.4473,"6 km WNW of Hoehne, Colorado",",us7000k9kq,",Colorado,US
-2023-06-19 14:13:07.071,3.6,3.7,52.0,37.2796,-104.4845,"6 km NNW of El Moro, Colorado",",us7000k9kp,",Colorado,US
+2023-06-19 14:18:55.951,4.1,4.2,46.0,37.3123,-104.4787,Colorado,",us7000k9kq,",Colorado,US
+2023-06-19 14:13:07.051,3.6,3.7,52.0,37.2841,-104.4924,"7 km NNW of El Moro, Colorado",",us7000k9kp,",Colorado,US
 2023-06-19 06:49:11.580,3.57,4.1,32.0,35.498,-118.145,"32km ESE of Lake Isabella, CA",",ci40488576,us7000k9iy,",California,US
 2023-06-19 04:18:34.768,2.9,2.7,68.0,31.65236115,-104.3024022,"58 km S of Whites City, New Mexico",",us7000k9i3,tx2023lxco,",New Mexico,US
 2023-06-18 23:53:14.890,2.96,2.0,43.0,35.664,-117.4825,"14km SSW of Searles Valley, CA",",ci40488416,us7000k9gt,",California,US
@@ -856,7 +856,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-12 07:51:14.121,3.0,2.2,242.0,43.2629,-126.7102,"187 km W of Langlois, Oregon",",us7000k7xy,",Oregon,US
 2023-06-10 21:20:04.670,2.92,2.0,75.0,36.5346667,-121.1455,"0km NNW of Pinnacles, CA",",nc73899691,us7000k7pi,",California,US
 2023-06-10 11:42:26.050,2.7,2.2,15.0,33.9555,-117.7156667,"6km SE of Chino Hills, CA",",ci40482456,",California,US
-2023-06-10 11:42:25.515,2.6,2.7,24.0,33.9553,-117.6987,"2 km SSE of Los Serranos, California",",ci40482464,us7000k7mf,",California,US
+2023-06-10 11:42:25.536,2.6,2.7,11.0,33.9586,-117.7031,"1 km SSE of Los Serranos, California",",ci40482464,us7000k7mf,",California,US
 2023-06-10 09:43:04.110,2.58,3.1,31.0,38.7423333,-122.7218333,"4km SW of Anderson Springs, CA",",nc73899481,",California,US
 2023-06-09 16:03:24.304,2.7,4.3,78.0,32.83172607,-100.5458032,"7 km WSW of Rotan, Texas",",tx2023lfsu,",Texas,US
 2023-06-09 15:26:50.460,2.61,2.7,25.0,38.8345,-122.8153333,"8km W of Cobb, CA",",nc73899136,",California,US
@@ -879,7 +879,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-05 22:02:00.820,2.57,2.2,56.0,35.6203333,-117.4431667,"17km SSW of Searles Valley, CA",",ci40479112,us7000k6ix,",California,US
 2023-06-05 04:16:14.973,3.3,2.7,131.0,28.5183,-88.029,Gulf of Mexico,",us7000k6cb,",Alabama,US
 2023-06-04 16:41:44.370,3.08,3.1,122.0,34.239,-119.7366667,"21km S of Santa Barbara, CA",",ci40478144,us7000k69t,",California,US
-2023-06-04 13:55:24.062,3.2,3.8,94.0,38.4213,-96.8457,"12 km SE of Lincolnville, Kansas",",us7000k69b,",Kansas,US
+2023-06-04 13:55:24.154,3.2,3.8,93.0,38.4191,-96.8373,"13 km SE of Lincolnville, Kansas",",us7000k69b,",Kansas,US
 2023-06-04 10:09:35.150,3.24,3.5,43.0,35.5796666666667,-82.8723333333333,"4 km NNW of West Canton, North Carolina",",us7000k68h,se60500788,",North Carolina,US
 2023-06-04 07:39:41.980,2.52,2.0,42.0,40.236,-121.1611667,"2km NNE of Almanor, CA",",nc73896781,",California,US
 2023-06-04 07:03:10.480,2.91,2.7,42.0,40.2355,-121.1573333,"3km NE of Almanor, CA",",nc73896771,us7000k67u,",California,US
@@ -4064,8 +4064,6 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2021-08-21 19:54:46.550,3.1,3.1,60.0,36.772,-121.374,"5km S of Ridgemark, CA",",nc73613006,us6000f9e8,",California,US
 2021-08-20 20:16:24.700,3.28,3.1,140.0,19.2385,-155.391833333333,"9 km ENE of P?hala, Hawaii",",us6000f943,hv72657267,",Hawaii,US
 2021-08-20 20:16:19.080,2.93,1.0,139.0,19.2385005950928,-155.39533996582,"9 km ENE of P?hala, Hawaii",",hv72657262,",Hawaii,US
-2021-08-20 18:01:33.350,3.08,2.0,227.0,40.3195,-124.3501667,"6km W of Petrolia, CA",",nc73612571,us6000f90u,",California,US
-2021-08-20 12:20:19.878,4.7,1.0,40.0,51.9803,-173.2776,"67 km ESE of Atka, Alaska",",us6000f8s7,ak021anvy1qc,",Alaska,US
 2023-06-27 23:46:57.411,3.3,3.3,66.0,32.8427124,-100.9466702,"14 km N of Snyder, Texas",",us6000knj3,tx2023mnfc,",Texas,US
 2023-06-27 02:58:11.353,2.7,2.0,105.0,44.3185,-115.182,"22 km WNW of Stanley, Idaho",",us6000knc5,mb90019773,",Idaho,US
 2023-06-27 01:05:31.408,3.0,3.4,76.09,39.6342,-119.6433,"5 km ESE of Spanish Springs, Nevada",",nn00861791,us6000knbt,",Nevada,US
@@ -4089,8 +4087,8 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-20 23:08:28.970,2.56,2.8,84.0,37.6486667,-119.0208333,"4km WNW of Mammoth Lakes, CA",",nc73903386,us7000k9z5,",California,US
 2023-06-20 18:02:29.504,2.8,2.0,63.0,31.6605552,-104.3907401,"57 km S of Whites City, New Mexico",",us7000k9x0,tx2023lzzf,",New Mexico,US
 2023-06-19 21:51:02.180,2.54,1.0,112.0,38.6295,-119.6115,"17km NW of Walker, CA",",nc73903026,nn00861437,us7000k9q1,",Nevada,US
-2023-06-19 14:18:56.000,4.3,4.2,39.0,37.3017,-104.4473,"6 km WNW of Hoehne, Colorado",",us7000k9kq,",Colorado,US
-2023-06-19 14:13:07.071,3.6,3.7,52.0,37.2796,-104.4845,"6 km NNW of El Moro, Colorado",",us7000k9kp,",Colorado,US
+2023-06-19 14:18:55.951,4.1,4.2,46.0,37.3123,-104.4787,Colorado,",us7000k9kq,",Colorado,US
+2023-06-19 14:13:07.051,3.6,3.7,52.0,37.2841,-104.4924,"7 km NNW of El Moro, Colorado",",us7000k9kp,",Colorado,US
 2023-06-19 06:49:11.580,3.57,4.1,32.0,35.498,-118.145,"32km ESE of Lake Isabella, CA",",ci40488576,us7000k9iy,",California,US
 2023-06-19 04:18:34.768,2.9,2.7,68.0,31.65236115,-104.3024022,"58 km S of Whites City, New Mexico",",us7000k9i3,tx2023lxco,",New Mexico,US
 2023-06-18 23:53:14.890,2.96,2.0,43.0,35.664,-117.4825,"14km SSW of Searles Valley, CA",",ci40488416,us7000k9gt,",California,US
@@ -4117,7 +4115,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-12 07:51:14.121,3.0,2.2,242.0,43.2629,-126.7102,"187 km W of Langlois, Oregon",",us7000k7xy,",Oregon,US
 2023-06-10 21:20:04.670,2.92,2.0,75.0,36.5346667,-121.1455,"0km NNW of Pinnacles, CA",",nc73899691,us7000k7pi,",California,US
 2023-06-10 11:42:26.050,2.7,2.2,15.0,33.9555,-117.7156667,"6km SE of Chino Hills, CA",",ci40482456,",California,US
-2023-06-10 11:42:25.515,2.6,2.7,24.0,33.9553,-117.6987,"2 km SSE of Los Serranos, California",",ci40482464,us7000k7mf,",California,US
+2023-06-10 11:42:25.536,2.6,2.7,11.0,33.9586,-117.7031,"1 km SSE of Los Serranos, California",",ci40482464,us7000k7mf,",California,US
 2023-06-10 09:43:04.110,2.58,3.1,31.0,38.7423333,-122.7218333,"4km SW of Anderson Springs, CA",",nc73899481,",California,US
 2023-06-09 16:03:24.304,2.7,4.3,78.0,32.83172607,-100.5458032,"7 km WSW of Rotan, Texas",",tx2023lfsu,",Texas,US
 2023-06-09 15:26:50.460,2.61,2.7,25.0,38.8345,-122.8153333,"8km W of Cobb, CA",",nc73899136,",California,US
@@ -4140,7 +4138,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-05 22:02:00.820,2.57,2.2,56.0,35.6203333,-117.4431667,"17km SSW of Searles Valley, CA",",ci40479112,us7000k6ix,",California,US
 2023-06-05 04:16:14.973,3.3,2.7,131.0,28.5183,-88.029,Gulf of Mexico,",us7000k6cb,",Alabama,US
 2023-06-04 16:41:44.370,3.08,3.1,122.0,34.239,-119.7366667,"21km S of Santa Barbara, CA",",ci40478144,us7000k69t,",California,US
-2023-06-04 13:55:24.062,3.2,3.8,94.0,38.4213,-96.8457,"12 km SE of Lincolnville, Kansas",",us7000k69b,",Kansas,US
+2023-06-04 13:55:24.154,3.2,3.8,93.0,38.4191,-96.8373,"13 km SE of Lincolnville, Kansas",",us7000k69b,",Kansas,US
 2023-06-04 10:09:35.150,3.24,3.5,43.0,35.5796666666667,-82.8723333333333,"4 km NNW of West Canton, North Carolina",",us7000k68h,se60500788,",North Carolina,US
 2023-06-04 07:39:41.980,2.52,2.0,42.0,40.236,-121.1611667,"2km NNE of Almanor, CA",",nc73896781,",California,US
 2023-06-04 07:03:10.480,2.91,2.7,42.0,40.2355,-121.1573333,"3km NE of Almanor, CA",",nc73896771,us7000k67u,",California,US
@@ -7325,9 +7323,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2021-08-21 19:54:46.550,3.1,3.1,60.0,36.772,-121.374,"5km S of Ridgemark, CA",",nc73613006,us6000f9e8,",California,US
 2021-08-20 20:16:24.700,3.28,3.1,140.0,19.2385,-155.391833333333,"9 km ENE of P?hala, Hawaii",",us6000f943,hv72657267,",Hawaii,US
 2021-08-20 20:16:19.080,2.93,1.0,139.0,19.2385005950928,-155.39533996582,"9 km ENE of P?hala, Hawaii",",hv72657262,",Hawaii,US
-2021-08-20 18:01:33.350,3.08,2.0,227.0,40.3195,-124.3501667,"6km W of Petrolia, CA",",nc73612571,us6000f90u,",California,US
-2021-08-20 12:20:19.878,4.7,1.0,40.0,51.9803,-173.2776,"67 km ESE of Atka, Alaska",",us6000f8s7,ak021anvy1qc,",Alaska,US
-2023-06-22 17:33:44.946,4.6,1.0,143.0,34.3596,141.4387,"134 km SE of Katsuura, Japan",",us7000kae2,",Chiba,JP
+2023-06-22 17:33:44.652,4.6,1.0,116.0,34.3625,141.414,"132 km SE of Katsuura, Japan",",us7000kae2,",Chiba,JP
 2023-06-22 10:30:38.749,4.6,3.4,83.0,43.1229,141.8665,"12 km NW of Yūbari, Japan",",us7000kaar,",Hokkaido,JP
 2023-06-22 07:39:46.255,4.3,2.0,150.0,41.5844,142.0708,"78 km ENE of Mutsu, Japan",",us7000ka9y,",Hokkaido,JP
 2023-06-19 04:50:45.769,5.0,3.1,100.0,42.5016,142.8319,"Hokkaido, Japan region",",us7000k9ic,",Hokkaido,JP
@@ -7337,7 +7333,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-16 12:24:09.390,4.9,3.8,113.0,35.6288,140.7607,"13 km SSW of Hasaki, Japan",",us7000k8ws,",Chiba,JP
 2023-06-16 12:14:02.978,4.4,3.1,134.0,35.7309,140.1945,"3 km WNW of Sakura, Japan",",us7000k8wp,",Chiba,JP
 2023-06-11 09:54:44.886,6.2,6.4,31.0,42.5268,141.9005,"20 km WSW of Biratori, Japan",",us7000k7su,usauto7000k7su,at00rw3279,pt23162000,",Hokkaido,JP
-2023-06-10 16:20:53.779,4.6,2.7,76.0,33.8004,135.2069,"1 km SW of Inami, Japan",",us7000k7nk,",Wakayama,JP
+2023-06-10 16:20:53.839,4.5,2.7,74.0,33.8345,135.1922,"3 km NW of Inami, Japan",",us7000k7nk,",Wakayama,JP
 2023-06-04 01:58:33.077,4.8,4.1,126.0,35.7132,140.0502,"5 km ENE of Honchō, Japan",",us7000k66v,",Chiba,JP
 2023-06-03 10:35:40.680,4.9,2.7,104.0,41.9746,142.5858,"25 km SW of Urakawa, Japan",",us7000k62j,",Hokkaido,JP
 2023-05-26 10:03:23.980,6.1,5.6,51.0,35.5096,140.4905,"12 km SSE of Narutō, Japan",",us7000k46f,usauto7000k46f,pt23146000,at00rv9fxn,",Chiba,JP
@@ -7355,7 +7351,6 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-05-05 17:47:16.200,5.9,3.4,30.0,41.5095,141.9826,"68 km ENE of Mutsu, Japan",",us6000k9ue,usauto6000k9ue,",Aomori,JP
 2023-05-05 12:58:03.876,5.6,7.2,50.0,37.4886,137.2775,"43 km NE of Anamizu, Japan",",us6000k9rh,pt23125001,at00ru6s0y,",Ishikawa,JP
 2023-04-30 20:04:22.213,4.4,2.2,127.0,36.4188,140.6219,"7 km SE of Funaishikawa, Japan",",us7000jx8m,",Ibaraki,JP
-2023-04-17 23:26:05.352,4.9,2.2,112.0,46.6024,152.763,Kuril Islands,",us6000k578,",Hokkaido,JP
 2023-04-15 02:40:52.955,4.4,2.7,130.0,39.2516,142.4061,"45 km ESE of Ōtsuchi, Japan",",us6000k4lr,",Iwate,JP
 2023-04-11 20:10:47.122,4.3,3.1,123.0,35.5656,140.2589,"7 km NW of Ōami, Japan",",us6000k3lr,",Chiba,JP
 2023-04-02 04:14:08.897,4.4,0.0,127.0,36.2554,141.4699,"near the east coast of Honshu, Japan",",us6000k1fx,",Chiba,JP
@@ -10378,7 +10373,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2007-03-25 00:41:57.820,6.7,7.4,23.9,37.336,136.588,"46 km NW of Nanao, Japan",",us2007aiae,atlas20070325004100,atlas20070325004157,usp000f7b5,choy20070325004157,gcmtc200703250041a,duputel200703250041a,gcmt20070325004157,iscgem11703278,",Ishikawa,JP
 2007-03-18 01:25:24.110,5.5,3.1,77.0,42.159,144.004,"95 km SSW of Kushiro, Japan",",usp000f6wu,us2007abae,gcmtc200703180125a,gcmt20070318012524,iscgem11698886,",Hokkaido,JP
 2007-03-08 05:03:32.260,6.1,2.7,24.7,29.908,140.204,"Izu Islands, Japan region",",us2007zraj,usp000f6aj,choy20070308050332,gcmtc200703080503a,gcmt20070308050332,iscgem11692603,",Shizuoka,JP
-2023-06-22 17:33:44.946,4.6,1.0,143.0,34.3596,141.4387,"134 km SE of Katsuura, Japan",",us7000kae2,",Chiba,JP
+2023-06-22 17:33:44.652,4.6,1.0,116.0,34.3625,141.414,"132 km SE of Katsuura, Japan",",us7000kae2,",Chiba,JP
 2023-06-22 10:30:38.749,4.6,3.4,83.0,43.1229,141.8665,"12 km NW of Yūbari, Japan",",us7000kaar,",Hokkaido,JP
 2023-06-22 07:39:46.255,4.3,2.0,150.0,41.5844,142.0708,"78 km ENE of Mutsu, Japan",",us7000ka9y,",Hokkaido,JP
 2023-06-19 04:50:45.769,5.0,3.1,100.0,42.5016,142.8319,"Hokkaido, Japan region",",us7000k9ic,",Hokkaido,JP
@@ -10388,7 +10383,7 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-06-16 12:24:09.390,4.9,3.8,113.0,35.6288,140.7607,"13 km SSW of Hasaki, Japan",",us7000k8ws,",Chiba,JP
 2023-06-16 12:14:02.978,4.4,3.1,134.0,35.7309,140.1945,"3 km WNW of Sakura, Japan",",us7000k8wp,",Chiba,JP
 2023-06-11 09:54:44.886,6.2,6.4,31.0,42.5268,141.9005,"20 km WSW of Biratori, Japan",",us7000k7su,usauto7000k7su,at00rw3279,pt23162000,",Hokkaido,JP
-2023-06-10 16:20:53.779,4.6,2.7,76.0,33.8004,135.2069,"1 km SW of Inami, Japan",",us7000k7nk,",Wakayama,JP
+2023-06-10 16:20:53.839,4.5,2.7,74.0,33.8345,135.1922,"3 km NW of Inami, Japan",",us7000k7nk,",Wakayama,JP
 2023-06-04 01:58:33.077,4.8,4.1,126.0,35.7132,140.0502,"5 km ENE of Honchō, Japan",",us7000k66v,",Chiba,JP
 2023-06-03 10:35:40.680,4.9,2.7,104.0,41.9746,142.5858,"25 km SW of Urakawa, Japan",",us7000k62j,",Hokkaido,JP
 2023-05-26 10:03:23.980,6.1,5.6,51.0,35.5096,140.4905,"12 km SSE of Narutō, Japan",",us7000k46f,usauto7000k46f,pt23146000,at00rv9fxn,",Chiba,JP
@@ -10406,7 +10401,6 @@ Fecha,Magnitud,Intensidad,GAP,Latitud,Longitud,Lugar,Id,Region,Pais
 2023-05-05 17:47:16.200,5.9,3.4,30.0,41.5095,141.9826,"68 km ENE of Mutsu, Japan",",us6000k9ue,usauto6000k9ue,",Aomori,JP
 2023-05-05 12:58:03.876,5.6,7.2,50.0,37.4886,137.2775,"43 km NE of Anamizu, Japan",",us6000k9rh,pt23125001,at00ru6s0y,",Ishikawa,JP
 2023-04-30 20:04:22.213,4.4,2.2,127.0,36.4188,140.6219,"7 km SE of Funaishikawa, Japan",",us7000jx8m,",Ibaraki,JP
-2023-04-17 23:26:05.352,4.9,2.2,112.0,46.6024,152.763,Kuril Islands,",us6000k578,",Hokkaido,JP
 2023-04-15 02:40:52.955,4.4,2.7,130.0,39.2516,142.4061,"45 km ESE of Ōtsuchi, Japan",",us6000k4lr,",Iwate,JP
 2023-04-11 20:10:47.122,4.3,3.1,123.0,35.5656,140.2589,"7 km NW of Ōami, Japan",",us6000k3lr,",Chiba,JP
 2023-04-02 04:14:08.897,4.4,0.0,127.0,36.2554,141.4699,"near the east coast of Honshu, Japan",",us6000k1fx,",Chiba,JP
