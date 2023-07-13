@@ -2,3 +2,4 @@ FastAPI
 BaseModel
 joblib
 uvicorn
+scikit-learn
