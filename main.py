@@ -19,8 +19,11 @@ def clasificar_sismo(magnitud: float, intensidad: float):
     # Realizar la clasificación utilizando el modelo entrenado
     clasificacion = model.predict([[magnitud, intensidad]])
 
+    # Convertir el resultado en una lista
+    clasificacion = list(clasificacion)
+
     # Devolver la clasificación como respuesta
-    return {"clasificacion": clasificacion[0]}
+    return {"clasificacion": clasificacion}
 
 # Iniciar el servidor
 if __name__ == "__main__":
