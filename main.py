@@ -16,17 +16,11 @@ model = joblib.load("kmeans_model.pkl")
 app = FastAPI()
 
 # Definición del endpoint para la clasificación
-@app.get("/clasificar_sismo")
-def clasificar_sismo(sismo: Sismo):
-    # Obtención de los parámetros del sismo
-    magnitud = sismo.Magnitud
-    gap = sismo.GAP
-    intensidad = sismo.Intensidad
-    hipocentro = sismo.Hipocentro
-    
+@app.get("/clasificar_sismo/{magnitud}/{gap}/{intensidad}/{hipocentro}")
+def clasificar_sismo(magnitud: float, gap: float, intensidad: float, hipocentro: float):
     # Realizar la clasificación utilizando el modelo entrenado
     clasificacion = model.predict([[magnitud, gap, intensidad, hipocentro]])
-    
+
     # Devolver la clasificación como respuesta
     return {"clasificacion": clasificacion[0]}
 
