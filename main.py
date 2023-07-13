@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 import joblib
+import numpy as np
 
 # Definición de la estructura de datos para recibir los parámetros
 class Sismo(BaseModel):
@@ -19,8 +20,8 @@ def clasificar_sismo(magnitud: float, intensidad: float):
     # Realizar la clasificación utilizando el modelo entrenado
     clasificacion = model.predict([[magnitud, intensidad]])
 
-    # Convertir el resultado en una lista
-    clasificacion = list(clasificacion)
+    # Convertir el resultado en un tipo de datos nativo de Python
+    clasificacion = np.asscalar(clasificacion)
 
     # Devolver la clasificación como respuesta
     return {"clasificacion": clasificacion}
