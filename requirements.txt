@@ -3,3 +3,4 @@ BaseModel
 joblib
 uvicorn
 scikit-learn
+streamlit
