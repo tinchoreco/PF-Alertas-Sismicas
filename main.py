@@ -52,8 +52,9 @@ def clasificar_sismo(magnitud: float, intensidad: float):
     clasificacion = model.predict([[magnitud, intensidad]])
 
     # Convertir el resultado en un tipo de datos nativo de Python
-    clasificacion = np.asscalar(clasificacion)
-
+    #clasificacion = np.asscalar(clasificacion)
+    clasificacion = clasificacion.item()
+    
     # Devolver la clasificación como respuesta
     return {"clasificacion": clasificacion, "texto": respuesta[clasificacion]}
 
